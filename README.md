@@ -1,11 +1,21 @@
 ### يفترض في من يريد متابعة خارطة الطريق ان يكون خريج حاسبات او هندسة حاسبات او اي تخصص قام بشرح اساسيات علوم الكمبيوتر او دورة اوفلاين او اونلاين
 ### لكل من ليس له علاقة ب علوم الحاسب ويريد متابعة خارطة الطريق الرجاء اكمال دورة CS50 من جامعة هارفرد فهي تمثل تمهيد جيد للبدء في التراك
-https://cs50.harvard.edu/x/2023/#welcome رابط الكورس:
+
+رابط الدورة: https://cs50.harvard.edu/x/2023/#welcome 
 ```mermaid
 timeline
     title  المتغيرات / التعابير البرمجيو اساسيات اللغة ماهي الدوتنت فريمورك  الاسبوع الاول
-    Day1 : CSharp [001] Intro to DOTNET
-         : CSharp [002] Solution & Project
+    Day1 : CSharp [001] Intro. to .NET
+         : What is Full Stack Developer
+         : Why .NET
+         : Understanding .NET
+         : What is Visual Studio
+         : Install Visual Studio
+         : Explore Visual Studio
+         : Difference Between Solution & Project
+         : Source Code Vs. Machine Code
+         : Explore .csproj file
+    Day2 : CSharp [002] Solution & Project
          : Adding Item to Solution
          : Application Vs Class Library
          : Referencing a project
