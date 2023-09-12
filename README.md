@@ -1,7 +1,7 @@
 ```mermaid
 timeline
     title  المتغيرات / التعابير البرمجيو اساسيات اللغة ماهي الدوتنت فريمورك  الاسبوع الاول
-    Day1 : CSharp [001] Intoduction to . NET
+    Day1 : CSharp [001] Intoduction to DOTNET
          : CSharp [002] Solution & Project
          : Adding Item to Solution
          : Application Vs. Class Library
@@ -9,7 +9,7 @@ timeline
          : Add Item to Project
          : Namespace Vs. classes
          : Class per file / multiple class per file
-    Day2 : NET CLI [001] Intoduction to .NET CLI
+    Day2 : NET CLI [001] Intoduction to DOTNET CLI
          : NET CLI [002] ntroduction to VS. Code
     Day3 : CSharp [003] Variables 
          : 04:30 Declaration
