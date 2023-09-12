@@ -1,14 +1,13 @@
 ```mermaid
 timeline
     title History of Social Media Platform
-     Day1 : ![image](https://github.com/metigator/Roadmap/assets/87314838/a9bb008f-c314-4909-ae92-9ee65d805ffb)
-
-     Day2 : 5: Me
-     Day3 : 5: Me 
-     Day4 : 5: Me
-     Day5 : 5: Me
-     Day6 : 5: Me
-     Day7 : 5: Me
+     Day1 : C# [001] Mastering C# 
+     Day2 : C# [001] Mastering C# 
+     Day3 : C# [001] Mastering C# 
+     Day4 : C# [001] Mastering C# 
+     Day5 : C# [001] Mastering C# 
+     Day6 : C# [001] Mastering C# 
+     Day7 : C# [001] Mastering C# 
 ```
 ```mermaid
 journey
