@@ -2,11 +2,11 @@
 timeline
     title History of Social Media Platform
     Day1 : CSharp [001]
-           CSharp [002]
-           CSharp [003]
-           CSharp [004]
-           CSharp [005]
-           CSharp [006]
+         : CSharp [002]
+         : CSharp [003]
+         : CSharp [004]
+         : CSharp [005]
+         : CSharp [006]
     Day2 : C#[001]-Mastering C# 
     Day3 : C#[001]-Mastering C# 
     Day4 : C#[001]-Mastering C# 
