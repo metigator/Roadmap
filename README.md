@@ -18,12 +18,7 @@ timeline
     Day5 : CSharp [013]
          : CSharp [014]
          : CSharp [015] 
-    Day6 : CSharp [016]
-         : CSharp [017]
-         : CSharp [018] 
-    Day7 : CSharp [019]
-         : CSharp [020]
-         : CSharp [021] 
+  Day6&7 : Revision | مراجعة 
 ```
 ```mermaid
 journey
