@@ -9,11 +9,11 @@ timeline
          : Add Item to Project
          : Namespace Vs. classes
          : Class per file / multiple class per file
-    Day2 : NET CLI [001] Intoduction to DOTNET CLI
-         : NET CLI [002] ntroduction to VS. Code
+    Day2 : DOTNET CLI [001] Intoduction to DOTNET CLI
+         : DOTNET CLI [002] ntroduction to VS. Code
     Day3 : CSharp [003] Variables 
-         : 04:30 Declaration
-         : 05:47 Assignment
+         : Declaration
+         : Assignment
          : 08:08 Initialization
          : Numerical data types
          : String Data Type (essentials)
