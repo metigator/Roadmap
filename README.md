@@ -2,12 +2,9 @@
 timeline
     title  المتغيرات / التعابير البرمجيو اساسيات اللغة ماهي الدوتنت فريمورك  الاسبوع الاول 
     Day1 : CSharp [001] Intoduction to .NET
-         : .NET CLI [001] Intoduction to .NET CLI
          : CSharp [002] Solution & Project
+    Day2 : .NET CLI [001] Intoduction to .NET CLI
          : .NET CLI [002] ntroduction to VS. Code
- 
-    Day2 : CSharp [004]
-         : CSharp [005] 
          : CSharp [006] 
     Day3 : CSharp [007]
          : CSharp [008]
