@@ -6,7 +6,7 @@ timeline
          : CSharp [002] Solution & Project
          : .NET CLI [002] ntroduction to VS. Code
  
-    Day #2 : CSharp [004]
+    Day2 : CSharp [004]
          : CSharp [005] 
          : CSharp [006] 
     Day3 : CSharp [007]
@@ -18,7 +18,7 @@ timeline
     Day5 : CSharp [013]
          : CSharp [014]
          : CSharp [015] 
-  Day6&7 : Revision | مراجعة 
+  Day6/7 : Revision | مراجعة 
 ```
 ```mermaid
 journey
