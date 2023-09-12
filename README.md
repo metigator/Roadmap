@@ -1,20 +1,27 @@
 ```mermaid
 timeline
-    title  المتغيرات / التعابير البرمجيو اساسيات اللغة ماهي الدوتنت فريمورك  الاسبوع الاول 
+    title  المتغيرات / التعابير البرمجيو اساسيات اللغة ماهي الدوتنت فريمورك  الاسبوع الاول
     Day1 : CSharp [001] Intoduction to .NET
          : CSharp [002] Solution & Project
+         : Adding Item to Solution
+         : Application Vs. Class Library
+         : Referencing a project
+         : Add Item to Project
+         : Namespace Vs. classes
+         : Class per file / multiple class per file
     Day2 : .NET CLI [001] Intoduction to .NET CLI
          : .NET CLI [002] ntroduction to VS. Code
-         : CSharp [006] 
-    Day3 : CSharp [007]
-         : CSharp [008]
-         : CSharp [009] 
-    Day4 : CSharp [010]
-         : CSharp [011]
-         : CSharp [012] 
-    Day5 : CSharp [013]
-         : CSharp [014]
-         : CSharp [015] 
+    Day3 : CSharp [003] Variables 
+         : 04:30 Declaration
+         : 05:47 Assignment
+         : 08:08 Initialization
+         : Numerical data types
+         : String Data Type (essentials)
+         : String Concatenation
+         : var keyword and literal suffix
+         : dynamic keyword
+    Day3 : CSharp [004] Boolean Types and Operators
+         : CSharp [004] Boolean Types and Operators
   Day6/7 : Revision | مراجعة 
 ```
 ```mermaid
