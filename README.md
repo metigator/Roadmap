@@ -1,6 +1,6 @@
 ```mermaid
 journey
-    title Week#1
+    title Week1
     section Week 1
       Day1 : Me
       Day2 : Me
