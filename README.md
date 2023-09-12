@@ -1,7 +1,7 @@
 ```mermaid
 timeline
     title History of Social Media Platform
-     Day1 : [01] - Mastering C#.NET  |  احترف سي شارب
+     Day1 : https://youtu.be/P1j1PI0YL-M
      Day2 : 5: Me
      Day3 : 5: Me 
      Day4 : 5: Me
