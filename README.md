@@ -1,6 +1,6 @@
 ```mermaid
 journey
-    title Week #1 | الاسبوع الأول
+    title Week #1 الاسبوع
     section Go to work
       Make tea: 5: Me
       Go upstairs: 3: Me
