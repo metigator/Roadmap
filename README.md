@@ -1,18 +1,27 @@
 ```mermaid
 timeline
-    title History of Social Media Platform
+    title اساسيات #1
     Day1 : CSharp [001]
          : CSharp [002]
-         : CSharp [003]
-         : CSharp [004]
+         : CSharp [003] 
+    Day2 : CSharp [004]
          : CSharp [005]
-         : CSharp [006]
-    Day2 : C#[001]-Mastering C# 
-    Day3 : C#[001]-Mastering C# 
-    Day4 : C#[001]-Mastering C# 
-    Day5 : C#[001]-Mastering C# 
-    Day6 : C#[001]-Mastering C# 
-    Day7 : C#[001]-Mastering C#
+         : CSharp [006] 
+    Day3 : CSharp [007]
+         : CSharp [008]
+         : CSharp [009] 
+    Day4 : CSharp [010]
+         : CSharp [011]
+         : CSharp [012] 
+    Day5 : CSharp [013]
+         : CSharp [014]
+         : CSharp [015] 
+    Day6 : CSharp [016]
+         : CSharp [017]
+         : CSharp [018] 
+    Day7 : CSharp [019]
+         : CSharp [020]
+         : CSharp [021] 
 ```
 ```mermaid
 journey
