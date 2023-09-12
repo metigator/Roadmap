@@ -22,19 +22,22 @@ timeline
          : Add Item to Project
          : Namespace Vs classes
          : Class per file / multiple class per file 
-    Day2 : DOTNET CLI [001] Intro to DOTNET CLI
+    Day3 : .NET CLI [001] Intro to DOTNET CLI
          : Overview .NET Framework
          : Where to execute CLI commands
          : Basic DOS Commands
-         : .NET Driver
+         : dotnet Driver
          : dotnet options
          : dotnet commands
          : dotnet build
          : dotnet run
          : dotnet project to project reference
          : dotnet add solution
-    Day3 : DOTNET CLI [002] Intro to VS Code
-    Day3 : CSharp [003] Variables 
+    Day4 : DOTNET CLI [002] Intro to VS. Code
+         : Visual Studio Vs. VS Code
+         : Install VS. Code
+         : Installing Omnisharp Extension
+    Day5 : CSharp [003] Variables 
          : Declaration
          : Assignment
          : Initialization
@@ -43,7 +46,10 @@ timeline
          : String Concatenation
          : var keyword and literal suffix
          : dynamic keyword
-  Day6/7 : Revision | مراجعة 
+  Day6/7 : Revision | مراجعة
+         : Do Example on Visual Studio
+         : Do Example on VS.Code
+         
 ```
 ```mermaid
 journey
