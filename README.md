@@ -8,9 +8,18 @@ timeline
          : Referencing a project
          : Add Item to Project
          : Namespace Vs classes
-         : Class per file / multiple class per file
-    Day3 : CSharp [004] Boolean Types & Operators
-         : CSharp [004] Boolean Types & Operators
+         : Class per file / multiple class per file 
+    Day2 : DOTNET CLI [001] Intro to DOTNET CLI
+         : DOTNET CLI [002] Intro to VS Code
+    Day3 : CSharp [003] Variables 
+         : Declaration
+         : Assignment
+         : Initialization
+         : Numerical data types
+         : String Data Type (essentials)
+         : String Concatenation
+         : var keyword and literal suffix
+         : dynamic keyword
   Day6/7 : Revision | مراجعة 
 ```
 ```mermaid
