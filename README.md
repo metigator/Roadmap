@@ -9,8 +9,8 @@ journey
       Day5 : Me
       Day6 : Me
       Day7 : Me
-
-
+```
+```mermaid
 journey
     title My working day
     section Go to work
