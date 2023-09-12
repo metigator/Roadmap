@@ -10,7 +10,17 @@ timeline
          : Namespace Vs classes
          : Class per file / multiple class per file 
     Day2 : DOTNET CLI [001] Intro to DOTNET CLI
-         : DOTNET CLI [002] Intro to VS Code
+         : Overview .NET Framework
+         : Where to execute CLI commands
+         : Basic DOS Commands
+         : .NET Driver
+         : dotnet options
+         : dotnet commands
+         : dotnet build
+         : dotnet run
+         : dotnet project to project reference
+         : dotnet add solution
+    Day3 : DOTNET CLI [002] Intro to VS Code
     Day3 : CSharp [003] Variables 
          : Declaration
          : Assignment
