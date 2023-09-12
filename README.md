@@ -1,7 +1,8 @@
 ```mermaid
 timeline
     title History of Social Media Platform
-     Day1 : https://youtu.be/P1j1PI0YL-M
+     Day1 : ![image](https://github.com/metigator/Roadmap/assets/87314838/a9bb008f-c314-4909-ae92-9ee65d805ffb)
+
      Day2 : 5: Me
      Day3 : 5: Me 
      Day4 : 5: Me
