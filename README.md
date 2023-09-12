@@ -1,8 +1,8 @@
 ```mermaid
 timeline
-    title  المتغيرات / التعابير البرمجيو اساسيات اللغة ماهي الدوتنت فريمورك 
-    Day1 : CSharp [001]
-         : CSharp [002]
+    title  المتغيرات / التعابير البرمجيو اساسيات اللغة ماهي الدوتنت فريمورك  الاسبوع الاول 
+    Day1 : CSharp [001] https://youtu.be/j87UkenRf7k?si=Hj6bxVxBkIJsORMK
+         : CSharp [002] 
          : CSharp [003] 
     Day2 : CSharp [004]
          : CSharp [005]
