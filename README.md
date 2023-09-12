@@ -1,16 +1,16 @@
 ```mermaid
 timeline
     title  المتغيرات / التعابير البرمجيو اساسيات اللغة ماهي الدوتنت فريمورك  الاسبوع الاول
-    Day1 : CSharp [001] Intro. to DOTNET
+    Day1 : CSharp [001] Intro to DOTNET
          : CSharp [002] Solution & Project
          : Adding Item to Solution
-         : Application Vs. Class Library
+         : Application Vs Class Library
          : Referencing a project
          : Add Item to Project
-         : Namespace Vs. classes
+         : Namespace Vs classes
          : Class per file / multiple class per file
-    Day2 : DOTNET CLI [001] Into. to DOTNET CLI
-         : DOTNET CLI [002] Intro. to VS. Code
+    Day2 : DOTNET CLI [001] Intro to DOTNET CLI
+         : DOTNET CLI [002] Intro to VS Code
     Day3 : CSharp [003] Variables 
          : Declaration
          : Assignment
