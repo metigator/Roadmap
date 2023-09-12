@@ -1,7 +1,7 @@
 ```mermaid
 timeline
     title  المتغيرات / التعابير البرمجيو اساسيات اللغة ماهي الدوتنت فريمورك  الاسبوع الاول
-    Day1 : CSharp [001] Intoduction to DOTNET
+    Day1 : CSharp [001] Intro. to DOTNET
          : CSharp [002] Solution & Project
          : Adding Item to Solution
          : Application Vs. Class Library
@@ -9,8 +9,8 @@ timeline
          : Add Item to Project
          : Namespace Vs. classes
          : Class per file / multiple class per file
-    Day2 : DOTNET CLI [001] Intoduction to DOTNET CLI
-         : DOTNET CLI [002] ntroduction to VS. Code
+    Day2 : DOTNET CLI [001] Into. to DOTNET CLI
+         : DOTNET CLI [002] Intro. to VS. Code
     Day3 : CSharp [003] Variables 
          : Declaration
          : Assignment
@@ -20,8 +20,8 @@ timeline
          : String Concatenation
          : var keyword and literal suffix
          : dynamic keyword
-    Day3 : CSharp [004] Boolean Types and Operators
-         : CSharp [004] Boolean Types and Operators
+    Day3 : CSharp [004] Boolean Types & Operators
+         : CSharp [004] Boolean Types & Operators
   Day6/7 : Revision | مراجعة 
 ```
 ```mermaid
