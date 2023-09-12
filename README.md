@@ -6,7 +6,7 @@ timeline
          : CSharp [002] Solution & Project
          : .NET CLI [002] ntroduction to VS. Code
  
-    Day2 : CSharp [004]
+    Day #2 : CSharp [004]
          : CSharp [005] 
          : CSharp [006] 
     Day3 : CSharp [007]
