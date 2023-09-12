@@ -1,4 +1,15 @@
 ```mermaid
+timeline
+    title History of Social Media Platform
+     Day1 : [01] - Mastering C#.NET  |  احترف سي شارب
+     Day2 : 5: Me
+     Day3 : 5: Me 
+     Day4 : 5: Me
+     Day5 : 5: Me
+     Day6 : 5: Me
+     Day7 : 5: Me
+```
+```mermaid
 journey
     title  اساسيات الاسبوع الاول
     section Week1
