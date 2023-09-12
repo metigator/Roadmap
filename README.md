@@ -1,7 +1,7 @@
 ```mermaid
 journey
     title Week 1
-    section Week #1 الاسبوع
+    section Week 1
       Day 1:
       Day 2:
       Day 3:
