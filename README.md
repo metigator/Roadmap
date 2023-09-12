@@ -1,10 +1,10 @@
 ```mermaid
 journey
-    title Week#1
+    title  اساسيات الاسبوع الاول
     section Week1
       Day1 : Me
       Day2 : Me
-      Day3 : Me
+      Day3 : Me 
       Day4 : Me
       Day5 : Me
       Day6 : Me
