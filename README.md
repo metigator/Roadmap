@@ -111,6 +111,11 @@ timeline
 - التعرف على المصفوفات (Array) والتعامل مع اشكالها المختلفة (Single/Multi Dimention & Jagged) واعدادها واستخدامها وتهيئتها
 - التعامل مع Array Indexes & Array Ranges والتحقق من مدى المصفوفة.
 - التعامل مع Selection Statement او ما يعرف بجمل الاختيار
+```mermaid
+- journey 
+    section Go to work
+    section Go to work
+```
    1. جملة IF
    2. جملة If/Else
    3. جملة Switch
