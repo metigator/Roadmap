@@ -168,3 +168,54 @@ timeline
 - تطبيق الامثلة الموجودة في اول فصلين من كتاب Grokking Algorithm
 - حل 3 مشاكل من المستوى السهل 
 
+ ```mermaid
+timeline
+    title 4th week | الاسبوع الرابع
+    Day1 : CSharp [008] OOP - Fields
+         : OOP What & Why and How? 
+         : Example without OOP
+         : Example with OOP
+         : Class Vs. Object
+    Day2 : OOP [#001] Introduction
+         : OOP [#002] Procedural Vs. OOP
+         : OOP [#003] OOP Pillars
+         : OOP [#004] Class Data Structure
+         : OOP [#005] Access Modifiers
+         : OOP [#006] Class Members
+         : OOP [#007] Reference Type Vs. Value Type (Deep Dive)
+    Day3 : CSharp [009] OOP - Methods
+         : Instance Vs. Static Member
+         : Method Syntax
+         : Caller Vs. Callee
+         : Argument Vs. Parametewr
+         : Pass By Value/Reference
+         : Method Signature
+         : Method Overloading
+         : Expression Bodied Method
+         : Local Method
+         : Static Method 
+    Day4 : CSharp [010] Constructors in C#
+         : constructor What, Why and How 
+         : this keyword
+         : Add Constructor
+         : Implicit Constructor
+         : Overload Constructor
+    Day5 : CSharp [011] Properties
+         : Properties What, Why & How
+         : Property Syntax
+         : get, set accessors
+         : Property and validation
+         : Readonly property
+         : Expression Bodied Property
+         : Property Deep Dive
+         : Automatic Property
+  Day6/7 : Revision
+```
+###  الهدف من الاسبوع الثالث
+- الفهم الاساسي لأهمية علم الخوارزميات
+- فهم مشكلة البحث بالطريقة البحث التسلسلي  Sequential Search والبحث الثنائي Binary Search
+- فهم كيفية قياس Big O Notation لحساب وقت تنفيذ الخوارزمية
+- تعلم كيفية تحويل البيانات Casting & Type Conversion
+- تطبيق الامثلة الموجودة في اول فصلين من كتاب Grokking Algorithm
+- حل 3 مشاكل من المستوى السهل 
+
