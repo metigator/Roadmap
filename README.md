@@ -5,7 +5,7 @@
 
 ```mermaid
 timeline
-    title الاسبوع الاول | First week
+    title  1st Week | الاسبوع الاول 
     Day1 : CSharp [001] Intro. to .NET
          : What is Full Stack Developer
          : Why .NET
@@ -61,28 +61,69 @@ timeline
 - عمل اول تطبيق باستخدام بيئات التطوير المختلقة (Visual Studio / VS. Code)
 - الفرق بين الكود المصدري (Source Code) ولغة الالة (Machine Code)
 - التعرف على مبادئ واساسيات المتغيرات والتعامل معها
+- معرفة الفرق بين ال (namespace) و (class)
 
-```mermaid
-journey
-    title  اساسيات الاسبوع الاول
-    section Week1
-      Day1 : 5: Me
-      Day2 : 5: Me
-      Day3 : 5: Me 
-      Day4 : 5: Me
-      Day5 : 5: Me
-      Day6 : 5: Me
-      Day7 : 5: Me
+ ```mermaid
+timeline
+    title 2nd week | الاسبوع الثاني
+    Day1 : CSharp [004] Boolean Types & Operators
+         : Equality Operators
+         : Comparison Operators
+         : Conditional Operators
+         : Short circuit & logical operators 
+         : Ternary Operator
+    Day2 : CSharp [005] Arrays in CSharp
+         : What is an Array
+         : How It's stored
+         : Declaration One Dimension
+         : Initialization One Dimension
+         : Multi Dimensional Array
+         : Jagged Array
+         : Indices and Ranges
+         : Bound Checking
+    Day3 : CSharp [006] Expressions in C#
+         : Expression Types
+         : Binary Operators
+         : Null Coalescing "??"
+         : Null conditional "?."
+         : Statement vs Statement blocks
+         : statement Expression
+         : Selection statement (if/if-else/switch)
+         : Iterations (while/do-while/for/foreach)
+         : jump statements(break/continue/goto/return)
+    Day4 : Problem Solving #1
+         : Simple calculator
+         : Sum Array elements
+         : Find Average of numbers
+         : Find max number in array
+         : Find Min Number in Array
+    Day5 : Problem Solving #2
+         : FizzBuzz
+         : Reverse String
+         : Valid Palindrome
+  Day6/7 : Revision | مراجعة
+         : Self Practice    
 ```
-```mermaid
-journey
-    title My working day
-    section Go to work
-      Make tea: 5: Me
-      Go upstairs: 3: Me
-      Do work: 1: Me, Cat
-    section Go home
-      Go downstairs: 5: Me
-      Sit down: 5: Me
-```
- 
+###  الهدف من الاسبوع الثاني
+- التعامل مع (Logical Operators) و (Comparison Operators) و (ُEquality Operators)
+- تطبيق ال Short Circuit evaluation
+- التعامل مع Ternary Operator
+- التعرف على المصفوفات (Array) والتعامل مع اشكالها المختلفة (Single/Multi Dimention & Jagged) واعدادها واستخدامها وتهيئتها
+- التعامل مع Array Indexes & Array Ranges والتحقق من مدى المصفوفة.
+- التعامل مع Selection Statement او ما يعرف بجمل الاختيار
+  1. جملة IF
+  2. جملة If/Else
+  3. جملة Switch
+- التعامل مع Iteration Statement او ما يعرف بجمل التكرار
+1. جملة while
+2. جملة do-while
+3. جملة for
+4. جملة foreach
+- التعامل مع Jump Statement او ما يعرف بجمل القفز
+1. جملة break
+2. جملة continue
+3. جملة goto
+4. جملة return
+- حل بعض ال (Problem Solving Easy Task)  
+   
+   
