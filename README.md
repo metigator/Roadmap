@@ -211,11 +211,16 @@ timeline
          : Automatic Property
   Day6/7 : Revision
 ```
-###  الهدف من الاسبوع الثالث
-- الفهم الاساسي لأهمية علم الخوارزميات
-- فهم مشكلة البحث بالطريقة البحث التسلسلي  Sequential Search والبحث الثنائي Binary Search
-- فهم كيفية قياس Big O Notation لحساب وقت تنفيذ الخوارزمية
-- تعلم كيفية تحويل البيانات Casting & Type Conversion
-- تطبيق الامثلة الموجودة في اول فصلين من كتاب Grokking Algorithm
-- حل 3 مشاكل من المستوى السهل 
+###  الهدف من الاسبوع الرابع
+- اهمية ال OOP
+- الفرق بين البرمجة الاجرائية (Procedural) والبرمجة الشئيية (OOP)
+- ما هو الكلاس (الفئة) وما هي مكوناته (Class Members)
+- الفرق بين ال Class Vs. Object
+- الفرق بين Reference Type Vs. Value Type
+- التعرف على المكونات التالية للكلاس
+  1. الحقول والثوابت IF
+  2. الدوال Methods
+  3. الكونستركتر Constructor
+  4. البروبرتي Property
+- الفرق بين Instance و static 
 
