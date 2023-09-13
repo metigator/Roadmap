@@ -110,12 +110,7 @@ timeline
 - التعامل مع Ternary Operator
 - التعرف على المصفوفات (Array) والتعامل مع اشكالها المختلفة (Single/Multi Dimention & Jagged) واعدادها واستخدامها وتهيئتها
 - التعامل مع Array Indexes & Array Ranges والتحقق من مدى المصفوفة.
-- التعامل مع Selection Statement او ما يعرف بجمل الاختيار
-```mermaid
-sequenceDiagram
-IF->>Else:
-If/Else ->> Switch:
-```
+- التعامل مع Selection Statement او ما يعرف بجمل الاختيار 
    1. جملة IF
    2. جملة If/Else
    3. جملة Switch
