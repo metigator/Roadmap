@@ -88,9 +88,9 @@ timeline
          : Null conditional "?."
          : Statement vs Statement blocks
          : statement Expression
-         : Selection statement (if/if-else/switch)
-         : Iterations (while/do-while/for/foreach)
-         : jump statements(break/continue/goto/return)
+         : Selection statement
+         : Iterations
+         : jump statements
     Day4 : Problem Solving 1
          : Simple calculator
          : Sum Array elements
