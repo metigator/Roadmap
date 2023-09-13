@@ -176,13 +176,13 @@ timeline
          : Example without OOP
          : Example with OOP
          : Class Vs. Object
-    Day2 : OOP [#001] Introduction
-         : OOP [#002] Procedural Vs. OOP
-         : OOP [#003] OOP Pillars
-         : OOP [#004] Class Data Structure
-         : OOP [#005] Access Modifiers
-         : OOP [#006] Class Members
-         : OOP [#007] Reference Type Vs. Value Type (Deep Dive)
+    Day2 : OOP [001] Introduction
+         : OOP [002] Procedural Vs. OOP
+         : OOP [003] OOP Pillars
+         : OOP [004] Class Data Structure
+         : OOP [005] Access Modifiers
+         : OOP [006] Class Members
+         : OOP [007] Reference Type Vs. Value Type (Deep Dive)
     Day3 : CSharp [009] OOP - Methods
          : Instance Vs. Static Member
          : Method Syntax
