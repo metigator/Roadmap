@@ -112,9 +112,8 @@ timeline
 - التعامل مع Array Indexes & Array Ranges والتحقق من مدى المصفوفة.
 - التعامل مع Selection Statement او ما يعرف بجمل الاختيار
 ```mermaid
-- journey 
-    section Go to work
-    section Go to work
+sequenceDiagram
+IF->>John: If/Else
 ```
    1. جملة IF
    2. جملة If/Else
