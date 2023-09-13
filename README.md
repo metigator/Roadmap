@@ -222,5 +222,5 @@ timeline
   2. الدوال Methods
   3. الكونستركتر Constructor
   4. البروبرتي Property
-- الفرق بين Instance و static 
+- الفرق بين اعضاء الكلاس Instance و static 
 
