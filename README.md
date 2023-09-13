@@ -218,7 +218,7 @@ timeline
 - الفرق بين ال Class Vs. Object
 - الفرق بين Reference Type Vs. Value Type
 - التعرف على المكونات التالية للكلاس
-  1. الحقول والثوابت IF
+  1. الحقول والثوابت
   2. الدوال Methods
   3. الكونستركتر Constructor
   4. البروبرتي Property
