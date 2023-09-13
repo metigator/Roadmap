@@ -113,7 +113,8 @@ timeline
 - التعامل مع Selection Statement او ما يعرف بجمل الاختيار
 ```mermaid
 sequenceDiagram
-IF->>John: If/Else
+IF->>Else:
+If/Else ->> Switch:
 ```
    1. جملة IF
    2. جملة If/Else
