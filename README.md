@@ -115,15 +115,15 @@ timeline
   2. جملة If/Else
   3. جملة Switch
 - التعامل مع Iteration Statement او ما يعرف بجمل التكرار
-1. جملة while
-2. جملة do-while
-3. جملة for
-4. جملة foreach
+ 1. جملة while
+ 2. جملة do-while
+ 3. جملة for
+ 4. جملة foreach
 - التعامل مع Jump Statement او ما يعرف بجمل القفز
-1. جملة break
-2. جملة continue
-3. جملة goto
-4. جملة return
+ 1. جملة break 
+ 2. جملة continue
+ 3. جملة goto
+ 4. جملة return
 - حل بعض ال (Problem Solving Easy Task)  
    
    
