@@ -2,7 +2,7 @@
 ### لكل من ليس له علاقة ب علوم الحاسب ويريد متابعة خارطة الطريق الرجاء اكمال دورة CS50 من جامعة هارفرد فهي تمثل تمهيد جيد للبدء في التراك
 
 رابط الدورة: https://cs50.harvard.edu/x/2023/#welcome
-رابط دورة : Introduction To Programming MIT
+رابط دورة : [Introduction To Programming MIT](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
   ## الشهر الأول
 ```mermaid
