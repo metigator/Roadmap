@@ -2,6 +2,7 @@
 ### لكل من ليس له علاقة ب علوم الحاسب ويريد متابعة خارطة الطريق الرجاء اكمال دورة CS50 من جامعة هارفرد فهي تمثل تمهيد جيد للبدء في التراك
 
 رابط الدورة: https://cs50.harvard.edu/x/2023/#welcome
+رابط دورة : Introduction To Programming MIT
 
   ## الشهر الأول
 ```mermaid
@@ -350,7 +351,7 @@ timeline
          : Sealed Members
          : Base Object class
          : Real world Example (Payroll)
-    Day3 : CSharp [021] Interface
+    Day3 : CSharp [022] Interface
          : Interface What, Why and How
          : Abstract Vs. Concrete Types
          : Implicit Interface Implementation
