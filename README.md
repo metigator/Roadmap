@@ -231,5 +231,15 @@ timeline
   2. الدوال Methods
   3. الكونستركتر Constructor
   4. البروبرتي Property
-- الفرق بين اعضاء الكلاس Instance و static 
+- الفرق بين اعضاء الكلاس Instance و static
+
+
+## الشهر الثاني
+```mermaid
+graph LR
+    A[5th Week االاسبوع الخامس]--> B((Square Rect))
+    B[6th Week االاسبوع السادس]--> C((Square Rect))
+    C[7th Week االاسبوع السابع]--> D((Square Rect))
+    D[8th Week االاسبوع الثامن]--> E((الاساس الثاني))
+```
 
