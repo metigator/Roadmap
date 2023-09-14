@@ -191,7 +191,7 @@ timeline
          : OOP [004] Class Data Structure
          : OOP [005] Access Modifiers
          : OOP [006] Class Members
-         : OOP [007] Reference Type Vs. Value Type (Deep Dive)
+         : OOP [007] Class Vs. Object
     Day3 : CSharp [009] OOP - Methods
          : Instance Vs. Static Member
          : Method Syntax
@@ -225,7 +225,6 @@ timeline
 - الفرق بين البرمجة الاجرائية (Procedural) والبرمجة الشئيية (OOP)
 - ما هو الكلاس (الفئة) وما هي مكوناته (Class Members)
 - الفرق بين ال Class Vs. Object
-- الفرق بين Reference Type Vs. Value Type
 - التعرف على المكونات التالية للكلاس
   1. الحقول والثوابت
   2. الدوال Methods
@@ -243,3 +242,137 @@ graph LR
     D[8th Week االاسبوع الثامن]--> E((الاساس الثاني))
 ```
 
+```mermaid
+timeline
+    title  5th Week | الاسبوع الخامس
+    Day1 : CSharp [017] Nested Types
+         : Why Nested types
+         : Composite Relationship
+         : Composite object initialization 
+    Day2 : CSharp [018] Debugguing in C#
+         : Error Types
+         : Syntax Error
+         : Runtime Error
+         : Handling Exception
+         : Logical Error
+         : Debugger and tracing (Essentials
+    Day3 : CSharp [019] Structs
+         : Definition of struct 
+         : Class Vs Struct
+         : Mutable Vs. Immutable (essentials)
+         : Readonly struct
+         : DateTime struct  
+    Day4 : Code Take away [003] Immutable Vs. Mutable Objects
+         : Naive mutable class
+         : Private setter
+         : Immutable class read only properties
+         : Immutable struct
+         : Immutability PROS and CONS
+         : Examples from dotnet
+    Day5 : OOP [008] Reference Type Vs Value Type
+         : Function Locals, Parameter
+         : Value Type Vs. Reference Type
+         : Reference types allocation
+         : Garbage Collector
+         : Nested Object Allocation
+         : Stack vs. Heap
+         : When to use (Struct/Class)
+         : Value Type always on stack !!?
+  Day6/7 : Revision
+```
+###  الهدف من الاسبوع الخامس
+- الانواع المتداخلة (Nested Types)
+- استكشاف الاخطاء ومعالجتها (Debugging and Tracing)
+- التعرف على Struct
+- الفرق بين (Reference Type) و (Value Type)
+- الفرق بين (Immutable) و (Mutable)
+
+
+```mermaid
+timeline
+    title  6th Week | الاسبوع السادس
+    Day1 : CSharp [012] Indexers
+         : Indexers What, Why and How
+         : Single Dimensional Map
+         : Multiple Dimensional Map
+         : Validating Suduko Example
+    Day2 : CSharp [013] Delegates
+         : Delegates What, Why and How
+         : Anonymus Delegate
+         : Lambda Expression
+         : Multicast Delegate
+         : Report Example
+    Day3 : CSharp [014] Events
+         : Events What, Why and How
+         : Events and Delegates
+         : Event Declaration
+         : Publish Event
+         : Subscriber Vs. Publisher
+         : Event Subscribe/Unsubscribe
+         : Lambda Expression call backs
+    Day4 : CSharp [015] Operator Overloading
+         : Operator Overloading What, Why and How
+         : Predefined Operator
+         : Supported Operators
+         : Operator Overloading Syntax
+         : (In Pair) Operator Overloading Syntax
+    Day5 : CSharp [016] Finalizers
+         : Finalizers What, Why and How
+         : Object scope
+         : Garbage Collection
+         : Explicit Vs. Implicit GC
+         : GC.Collect() 
+  Day6/7 : Revision | مراجعة  
+```
+###  الهدف من الاسبوع السادس
+- التعرف على Class Members
+  1. الفهارس Indexers
+  2. الاحداث Events
+  3. ال Operator Overloading
+  4. ال Finalizers
+- التعرف على Delegate
+
+```mermaid
+timeline
+    title  7th Week | الاسبوع السابع 
+    Day1 : OOP [003] OOP Pillars
+         : OOP [009] Encapsulation
+         : Encapsulation What, Why and How
+         : Encapsulation using methods
+         : Encapsulation using Properties
+         : Encapsulation using readonly
+    Day2 : CSharp [021] Inheritance
+         : Inheritance What, Why and How
+         : Abstract class
+         : Sealed class
+         : Virual Methods
+         : Abstract Members
+         : Sealed Members
+         : Base Object class
+         : Real world Example (Payroll)
+    Day3 : CSharp [021] Interface
+         : Interface What, Why and How
+         : Abstract Vs. Concrete Types
+         : Implicit Interface Implementation
+         : Explicit Interface Implementation
+         : Tight Vs. Loose Coupling
+         : Real World Example       
+    Day4 : OOP [010] Abstraction 
+         : Abstraction What, Why and How
+         : OOP [011] Polymorphism
+         : Abstraction What, Why and How
+    Day5 : OOP [012] Inheritance (Revisited) 
+         : Inheritance What, Why and How 
+  Day6/7 : Revision | مراجعة  
+```
+###  الهدف من الاسبوع السابع
+- التعرف على اعمدة ال OOP
+  1. ال Encapsulation
+  2. ال Abstraction
+  3. ال Polymorphism
+  4. ال Inheritance
+- التعرف على العديد من انواع الكلاس (Sealed, Abstract, Static)
+- اعضاء الكلاس (sealed, virtual, abstract)
+- التعرف على method overriding
+- معرفة اساسيات الفرق بين Tight Vs. Loose Coupling
+ٍ- التطبيق العملي لمسائل تلامس الواقع (نظام رواتب) ونظام (بنكي)
