@@ -6,7 +6,8 @@
 ### الشهر الأول
 ```mermaid
 graph LR
-    A[1st Week االاسبوع الاول]--> B((Round Rect))
+    A[1st Week االاسبوع الاول]--> B((Square Rect))
+    B[2nd Week االاسبوع الثاني]--> C((Square Rect))
 ```
 
 ```mermaid
