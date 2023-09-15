@@ -470,7 +470,87 @@ timeline
          : Reflecting Members
          : Invoking Members
          : Reflecting Assemblies   
-    Day5 : Attrtibute in C#
+    Day5 : CSharp [031] Attrtibute in C#
          : What Why and How
   Day6&7 : Revision | مراجعة
+```
 ###  الهدف من الاسبوع العاشر
+
+```mermaid
+timeline
+    title  11th Week | الاسبوع الحادي عشر
+     Day1 : CSharp [032] List And Dictionaries
+          : Collections
+          : List<T>
+          : Add Items
+          : Count And Capacity
+          : Remove Items
+          : Dictionaries
+          : Add Item to Dictionary
+          : Convert List to Dictionary
+     Day2 : CSharp [033] Stack And Queues
+          : Stack What, Why And How
+          : Stack Methods
+          : Queue What, Why And How
+          : Queue Methods 
+     Day3 : CSharp [034] LinkList, Hashset And SortedList
+          : LinkList What, Why and How
+          : Linked list Properties & Methods
+          : Hashset What, Why and How
+          : Hashset Properties & Methods
+          : SortedList What, Why and How
+          : SortedList Properties & Methods
+          : Implement IComparable
+     Day4 : Algorithm & Data Structure
+          : Practice
+          : Practice
+          : Practice
+     Day5 : Problem Solving
+          : Practice
+          : Practice
+          : Practice
+   Day6&7 : Revision | مراجعة 
+```
+###  الهدف من الاسبوع الحادي عشر
+
+```mermaid
+timeline
+    title  12th Week | الاسبوع الثاني عشر
+     Day1 : VSC [001] Introduction
+          : VSC [002] Basic Got Workflow
+          : Git Configuration
+          : initialize a git repository
+          : How Git Store Objects
+          : Stage Files
+          : Commit
+          : git log, git diff
+          : git reset 
+     Day2 : VSC [003] Remote Repository (Github)
+          : VSC [004] Working with Remote Repositoru
+          : Github Overview
+          : Create remote repository
+          : Delete remote repository
+          : git remote
+          : git branch -a
+          : git fetch
+          : git merge
+          : git pull
+          : add remote repository to local
+          : git push
+          : forking repository
+          : Template repositories
+
+     Day3 : VSC [005] Branching and Merging
+          : VSC [006] Pull Request essentials 
+          : Create branch
+          : Fast forward
+          : 3 ways merging (ORT)
+          : resolve merge conflict
+          : resolve conflict (Kdiff tool)
+          : Full example (Console Application)          
+     Day4 : Payrol Example to Git Part 02
+     Day5 : Payrol Example to Git Part 01
+   Day6&7 : Revision | مراجعة 
+         
+```
+###  الهدف من الاسبوع الثاني عشر
