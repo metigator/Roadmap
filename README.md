@@ -10,7 +10,7 @@ graph LR
     A[1st Week االاسبوع الاول]--> B((Square Rect))
     B[2nd Week االاسبوع الثاني]--> C((Square Rect))
     C[3rd Week االاسبوع الثالث]--> D((Square Rect))
-    D[4th Week االاسبوع الرابع]--> E((الاساس الاول))
+    D[4th Week االاسبوع الرابع]--> E((الشهر 1))
 ```
 
 ```mermaid
@@ -240,7 +240,7 @@ graph LR
     A[5th Week االاسبوع الخامس]--> B((Square Rect))
     B[6th Week االاسبوع السادس]--> C((Square Rect))
     C[7th Week االاسبوع السابع]--> D((Square Rect))
-    D[8th Week االاسبوع الثامن]--> E((الاساس الثاني))
+    D[8th Week االاسبوع الثامن]--> E((الشهر 2))
 ```
 
 ```mermaid
@@ -377,3 +377,100 @@ timeline
 - التعرف على method overriding
 - معرفة اساسيات الفرق بين Tight Vs. Loose Coupling
 ٍ- التطبيق العملي لمسائل تلامس الواقع (نظام رواتب) ونظام (بنكي)
+
+```mermaid
+timeline
+    title  8th Week | الاسبوع الثامن
+    Day1 : [Algorithm]
+    Day1 : [Algorithm]
+    Day1 : [Problem Solving]
+    Day1 : [Problem Solving]
+    Day1 : [Problem Solving]
+  Day6&7 : Revision | مراجعة  
+```
+###  الهدف من الاسبوع الثامن
+
+
+## الشهر الثالث
+```mermaid
+graph LR
+    A[9th Week االاسبوع التاسع]--> B((Square Rect))
+    B[10th Week االاسبوع العاشر]--> C((Square Rect))
+    C[11th Week االاسبوع الحادي عشر]--> D((Square Rect))
+    D[12th Week االاسبوع الثاني عشر]--> E(( الشهر 3  ))
+```
+
+```mermaid
+timeline
+    title  9th Week | الاسبوع التاسع
+    Day1 : CSharp [020] Enum
+         : Enums What, Why and How
+         : Simple Enum
+         : Flags Enum
+         : Enum Parsing and Data Conversion
+         : Looping on Enums
+    Day2 : CSharp [023] Generics
+         : Before Generics
+         : Generics What, Why and How
+         : Generic Methods
+         : Generic Class
+         : Generic Constraints
+         : .NET Generics and Collections
+    Day3 : CSharp [024] Generic Delegate Types
+         : Introduction
+         : Delegates (Revisited)
+         : Generic Delegate
+         : Covariance & Contravariance (overview)
+         : Action<T>, Func<T>, Predicate<T>
+    Day4 : CSharp [025] Exceptions
+         : Exceptions What, Why and How
+         : Exception Handling 
+         : Catch Specific Exception
+         : Catch Multiple Exception
+         : Exception Filters 
+         : Custom Exception
+         : Ducking(Rethrow) Exception
+         : Swallow Exception
+    Day5 : CSharp [027] Xml Documentation
+         : What, Why and How
+         : Add XML Documentation
+         : Generate Xml Document
+         : Include External XML Document
+         : Summary
+  Day6&7 : Revision | مراجعة  
+```
+
+###  الهدف من الاسبوع التاسع
+```mermaid
+timeline
+    title  10th Week | الاسبوع العاشر
+    Day1 : CSharp [026] Enumeratrion And ITerators
+         : CSharp [040] Foreach & Yield
+         : IEnumerator Interface
+         : IEnumerable Interface
+         : yield Keyword
+         : IComparable Interface    
+    Day2 : CSharp [028] Extension Methods
+         : What, Why and How
+         : Helper class Vs. Extension Methods
+         : Method Chaining
+         : Resolve Ambiguity
+    Day3 : CSharp [029] Assemblies
+         : Assembly Definition
+         : Framework & Assembly
+         : IL and JIT
+         : Assembler
+         : Access Assembly Programmatically
+         : Accessing Metadata
+         : Accessing Metadata
+    Day4 : CSharp [030] Reflection And Metadata
+         : What Why and How
+         : Obtaining Types
+         : Instantiating Types
+         : Reflecting Members
+         : Invoking Members
+         : Reflecting Assemblies   
+    Day5 : Attrtibute in C#
+         : What Why and How
+  Day6&7 : Revision | مراجعة
+###  الهدف من الاسبوع العاشر
