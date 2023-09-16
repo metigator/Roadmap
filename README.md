@@ -61,7 +61,8 @@ timeline
          : Do Example on Visual Studio
          : Do Example on VS.Code
          
-```
+``` 
+
 ###  الهدف من الاسبوع الاول
 - التعرف منصة الدوت نت واصداراتها المختلفة
 - كيفية تهيئة جهاز الكمبيوتر الخاص فيك للبدء في عمل تطبيقات دوت نت عليه
@@ -72,6 +73,15 @@ timeline
 - الفرق بين الكود المصدري (Source Code) ولغة الالة (Machine Code)
 - التعرف على مبادئ واساسيات المتغيرات والتعامل معها
 - معرفة الفرق بين ال (namespace) و (class)
+
+Lesson | Link |
+CSharp [001] | https://youtu.be/TxaZYXtZWCM |
+CSharp [002] | https://youtu.be/t2aMZFzV3jI |
+.NET CLI [001] |https://youtu.be/3FaIaGzbjMs|
+.NET CLI [002] | https://youtu.be/ykfeeBeGAMk |
+CSharp [003] | https://youtu.be/j87UkenRf7k|
+
+---
 
  ```mermaid
 timeline
