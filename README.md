@@ -146,6 +146,14 @@ timeline
    3. جملة goto
    4. جملة return
 - حل 8 من المشاكل (Problem Solving Easy Task)  
+
+|Lesson | Link |
+| :---: | :---: | 
+|CSharp [004] | https://youtu.be/D9VD0mn6mss |
+|CSharp [005] | https://youtu.be/XTB3V6R1L- | 
+|CSharp [006] | https://youtu.be/eOqTJWuCXho|
+
+---
    
  ```mermaid
 timeline
@@ -188,6 +196,11 @@ timeline
 - تعلم كيفية تحويل البيانات Casting & Type Conversion
 - تطبيق الامثلة الموجودة في اول فصلين من كتاب Grokking Algorithm
 - حل 3 مشاكل من المستوى السهل 
+|Lesson | Link |
+| :---: | :---: | 
+|CSharp [007] | https://youtu.be/ByIQf4VS2d4 |
+
+---
 
  ```mermaid
 timeline
@@ -244,7 +257,13 @@ timeline
   4. البروبرتي Property
 - الفرق بين اعضاء الكلاس Instance و static
 
+|Lesson | Link |
+| :---: | :---: | 
+|CSharp [004] | https://youtu.be/D9VD0mn6mss |
+|CSharp [005] | https://youtu.be/XTB3V6R1L- | 
+|CSharp [006] | https://youtu.be/eOqTJWuCXho|
 
+---
 ## الشهر الثاني
 ```mermaid
 graph LR
