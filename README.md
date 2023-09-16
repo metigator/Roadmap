@@ -74,12 +74,13 @@ timeline
 - التعرف على مبادئ واساسيات المتغيرات والتعامل معها
 - معرفة الفرق بين ال (namespace) و (class)
 
-Lesson | Link |
-CSharp [001] | https://youtu.be/TxaZYXtZWCM |
-CSharp [002] | https://youtu.be/t2aMZFzV3jI |
-.NET CLI [001] |https://youtu.be/3FaIaGzbjMs|
-.NET CLI [002] | https://youtu.be/ykfeeBeGAMk |
-CSharp [003] | https://youtu.be/j87UkenRf7k|
+|Lesson | Link |
+| :---: | :---: | 
+|CSharp [001] | https://youtu.be/TxaZYXtZWCM |
+|CSharp [002] | https://youtu.be/t2aMZFzV3jI |
+|.NET CLI [001] |https://youtu.be/3FaIaGzbjMs|
+|.NET CLI [002] | https://youtu.be/ykfeeBeGAMk |
+|CSharp [003] | https://youtu.be/j87UkenRf7k|
 
 ---
 
