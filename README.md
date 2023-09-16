@@ -196,7 +196,8 @@ timeline
 - فهم كيفية قياس Big O Notation لحساب وقت تنفيذ الخوارزمية
 - تعلم كيفية تحويل البيانات Casting & Type Conversion
 - تطبيق الامثلة الموجودة في اول فصلين من كتاب Grokking Algorithm
-- حل 3 مشاكل من المستوى السهل 
+- حل 3 مشاكل من المستوى السهل
+  
 |Lesson | Link |
 | :---: | :---: | 
 |CSharp [007] | https://youtu.be/ByIQf4VS2d4 |
