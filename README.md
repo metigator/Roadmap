@@ -536,6 +536,7 @@ timeline
 |OOP [027] | https://youtu.be/CoBhSJiZCSA|
 
 ---
+
 ```mermaid
 timeline
     title  10th Week | الاسبوع العاشر
@@ -570,6 +571,25 @@ timeline
   Day6&7 : Revision | مراجعة
 ```
 ###  الهدف من الاسبوع العاشر
+
+
+- فهم التكرار والمفاتيح المحورية في اللغة: تغطية أساسيات التكرار والمفاتيح مثل 'yield' وواجهات مثل IEnumerator وIEnumerable.
+- إتقان توسيع الطرق (Extension Methods): فهم كيف ولماذا تستخدم طرق التوسيع وكيف تقارن مع طرق المساعدة.
+- استكشاف الأسمبليات: فهم ماهية الأسمبليات وكيف يتم التفاعل معها في عملية التنفيذ.
+- تعمق في العكس والبيانات الوصفية (Reflection and Metadata): فهم كيف يمكن استخدام Reflection للتفاعل مع الأنواع والأعضاء في وقت التشغيل.
+- استخدام السمات (Attributes) بفعالية: فهم كيفية استخدام السمات في C# لإضافة معلومات وصفية للكود.
+- مراجعة شاملة: تقييم ما تم تعلمه وتحديد المجالات التي قد تحتاج لتحسين.
+
+|Lesson | Link |
+| :---: | :---: | 
+|CSharp [026] | https://youtu.be/qvqp9qJnigs|
+|CSharp [040] | https://youtu.be/z6eBV2iPEC8|  
+|CSharp [028] | https://youtu.be/AdperlFqPWQ|  
+|CSharp [029] | https://youtu.be/X1IPGHZ1yJw|  
+|CSharp [030] | https://youtu.be/hkuBpG0QyrU|  
+|CSharp [031] | https://youtu.be/UkGF0SJzDN4|  
+
+---
 
 ```mermaid
 timeline
@@ -607,6 +627,22 @@ timeline
    Day6&7 : Revision | مراجعة 
 ```
 ###  الهدف من الاسبوع الحادي عشر
+
+- فهم القوائم والقواميس (Lists and Dictionaries): إتقان استخدام القوائم والقواميس، وفهم العمليات الأساسية مثل الإضافة والإزالة.
+- استكشاف (Stacks and Queues): تعلم كيفية استخدام الأسطاك والطوابير والطرق المرتبطة بهم.
+- فهم LinkList, HashSet, و SortedList: التعرف على هذه الأنواع المتقدمة من البيانات وكيفية استخدامها.
+- تطبيق الخوارزميات والهياكل البيانية: ممارسة تطبيق الخوارزميات والهياكل البيانية بمهارة.
+- حل المشكلات: تطوير القدرة على حل المشكلات البرمجية بشكل فعّال.
+- مراجعة شاملة: لا يمكن أن ننسى هذا الجزء، مراجعة ما تم تعلمه وتحديد المجالات التي قد تحتاج إلى تحسين.
+
+|Lesson | Link |
+| :---: | :---: | 
+|CSharp [032] | https://youtu.be/HNmAzIRfwoI|
+|CSharp [033] | https://youtu.be/-GpTnKa0myM|  
+|CSharp [034] | https://youtu.be/BKYiNKfmuGk|   
+
+---
+
 
 ```mermaid
 timeline
@@ -649,3 +685,19 @@ timeline
          
 ```
 ###  الهدف من الاسبوع الثاني عشر
+- تقنيات Git وVSC: فهم أساسيات عمل Git وVisual Studio Code، بدءًا من التكوين وحتى الCommit.
+- التفاعل مع (Remote Repositories): تعلم كيفية إنشاء وحذف وإدارة المستودعات البعيدة على Github.
+- فروع ودمج في Git (Branching and Merging): تعلم كيفية إنشاء وإدارة، وكيفية حل التعارضات في الدمج.
+- تطبيق عملي (Payroll Example): توضيح كيفية استخدام Git في مشروع حقيقي من خلال مثال عملي.
+- مراجعة شاملة: نعم، هذا جزء لا يمكن تجاهله. مراجعة ما تم تعلمه وتحديد المجالات التي قد تحتاج إلى مزيد من التركيز.
+
+|Lesson | Link |
+| :---: | :---: | 
+|VSC [001] | https://youtu.be/vmKeIpVaPvQ|  
+|VSC [002] | https://youtu.be/VxMFMgnpV3A|  
+|VSC [003] | https://youtu.be/1KDXTQvmPbo|  
+|VSC [004] | https://youtu.be/K7cGrHdO4Ow|  
+|VSC [005] | https://youtu.be/o2PW8xe5CSk|  
+|VSC [006] | https://youtu.be/GwKLwJgm7Qw|  
+
+---
