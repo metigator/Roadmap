@@ -1,9 +1,3 @@
-### يفترض في من يريد متابعة خارطة الطريق ان يكون خريج حاسبات او هندسة حاسبات او اي تخصص قام بشرح اساسيات علوم الكمبيوتر او دورة اوفلاين او اونلاين
-### لكل من ليس له علاقة ب علوم الحاسب ويريد متابعة خارطة الطريق الرجاء اكمال دورة CS50 من جامعة هارفرد فهي تمثل تمهيد جيد للبدء في التراك
-
-رابط الدورة:  [CS-50 Harvard](https://cs50.harvard.edu/x/2023/#welcome)<br>
-رابط دورة : [Introduction To Programming MIT](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-
   ## الشهر الأول
 ```mermaid
 graph LR
