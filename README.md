@@ -261,9 +261,17 @@ timeline
 
 |Lesson | Link |
 | :---: | :---: | 
-|CSharp [004] | https://youtu.be/D9VD0mn6mss |
-|CSharp [005] | https://youtu.be/XTB3V6R1L- | 
-|CSharp [006] | https://youtu.be/eOqTJWuCXho|
+|CSharp [009] | https://youtu.be/LEhv_owDo0o |
+|OOP [001] | https://youtu.be/vo_vktaAK9o|
+|OOP [002] | https://youtu.be/ZOuOltL2IsU |
+|OOP [003] | https://youtu.be/M4VjTVO8Rbw |
+|OOP [004] | https://youtu.be/iCZEXw2G6 |
+|OOP [005] | https://youtu.be/iCZEXw2G6akak |
+|OOP [006] | https://youtu.be/EEyh4xCcMSs |
+|OOP [007] | https://youtu.be/UMIUlG-uwxY |
+|CSharp [010] | https://youtu.be/GkmlPDc_5Dc|
+|CSharp [011] |https://youtu.be/pkQHHS3XAa8|
+
 
 ---
 ## الشهر الثاني
@@ -278,6 +286,61 @@ graph LR
 ```mermaid
 timeline
     title  5th Week | الاسبوع الخامس
+    Day1 : CSharp [012] Indexers
+         : Indexers What, Why and How
+         : Single Dimensional Map
+         : Multiple Dimensional Map
+         : Validating Suduko Example
+    Day2 : CSharp [013] Delegates
+         : Delegates What, Why and How
+         : Anonymus Delegate
+         : Lambda Expression
+         : Multicast Delegate
+         : Report Example
+    Day3 : CSharp [014] Events
+         : Events What, Why and How
+         : Events and Delegates
+         : Event Declaration
+         : Publish Event
+         : Subscriber Vs. Publisher
+         : Event Subscribe/Unsubscribe
+         : Lambda Expression call backs
+    Day4 : CSharp [015] Operator Overloading
+         : Operator Overloading What, Why and How
+         : Predefined Operator
+         : Supported Operators
+         : Operator Overloading Syntax
+         : (In Pair) Operator Overloading Syntax
+    Day5 : CSharp [016] Finalizers
+         : Finalizers What, Why and How
+         : Object scope
+         : Garbage Collection
+         : Explicit Vs. Implicit GC
+         : GC.Collect() 
+  Day6/7 : Revision | مراجعة  
+```
+###  الهدف من الاسبوع الخامس
+- التعرف على Class Members
+  1. الفهارس Indexers
+  2. الاحداث Events
+  3. ال Operator Overloading
+  4. ال Finalizers
+- التعرف على Delegate
+
+|Lesson | Link |
+| :---: | :---: | 
+|CSharp [012] | https://youtu.be/2LXzNQSTHTc | 
+|CSharp [013] | https://youtu.be/rvNJrgj6ilg|
+|CSharp [014] | https://youtu.be/8aWHZncV95Q|
+|CSharp [015] | https://youtu.be/F3ryldPGQoM|
+|CSharp [016] | https://youtu.be/Cm6mKU2cQls|
+|CSharp [017] | https://youtu.be/-gWx_NILonQ|
+
+---
+
+```mermaid
+timeline
+    title  6th Week | الاسبوع السادس
     Day1 : CSharp [017] Nested Types
          : Why Nested types
          : Composite Relationship
@@ -313,57 +376,23 @@ timeline
          : Value Type always on stack !!?
   Day6/7 : Revision
 ```
-###  الهدف من الاسبوع الخامس
+###  الهدف من الاسبوع السادس
 - الانواع المتداخلة (Nested Types)
 - استكشاف الاخطاء ومعالجتها (Debugging and Tracing)
 - التعرف على Struct
 - الفرق بين (Reference Type) و (Value Type)
 - الفرق بين (Immutable) و (Mutable)
 
+|Lesson | Link |
+| :---: | :---: | 
+|CSharp [017] | https://youtu.be/-gWx_NILonQ | 
+|CSharp [018] | https://youtu.be/mkOAASe1VMk|
+|CSharp [019] | https://youtu.be/rhupFUHBwvY|
+|Code Take Away [003] | https://youtu.be/bbdmknnwcP8| 
+|OOP [008] | https://youtu.be/oQI0ItmX-H0|
 
-```mermaid
-timeline
-    title  6th Week | الاسبوع السادس
-    Day1 : CSharp [012] Indexers
-         : Indexers What, Why and How
-         : Single Dimensional Map
-         : Multiple Dimensional Map
-         : Validating Suduko Example
-    Day2 : CSharp [013] Delegates
-         : Delegates What, Why and How
-         : Anonymus Delegate
-         : Lambda Expression
-         : Multicast Delegate
-         : Report Example
-    Day3 : CSharp [014] Events
-         : Events What, Why and How
-         : Events and Delegates
-         : Event Declaration
-         : Publish Event
-         : Subscriber Vs. Publisher
-         : Event Subscribe/Unsubscribe
-         : Lambda Expression call backs
-    Day4 : CSharp [015] Operator Overloading
-         : Operator Overloading What, Why and How
-         : Predefined Operator
-         : Supported Operators
-         : Operator Overloading Syntax
-         : (In Pair) Operator Overloading Syntax
-    Day5 : CSharp [016] Finalizers
-         : Finalizers What, Why and How
-         : Object scope
-         : Garbage Collection
-         : Explicit Vs. Implicit GC
-         : GC.Collect() 
-  Day6/7 : Revision | مراجعة  
-```
-###  الهدف من الاسبوع السادس
-- التعرف على Class Members
-  1. الفهارس Indexers
-  2. الاحداث Events
-  3. ال Operator Overloading
-  4. ال Finalizers
-- التعرف على Delegate
+---
+
 
 ```mermaid
 timeline
@@ -409,6 +438,18 @@ timeline
 - التعرف على method overriding
 - معرفة اساسيات الفرق بين Tight Vs. Loose Coupling
 ٍ- التطبيق العملي لمسائل تلامس الواقع (نظام رواتب) ونظام (بنكي)
+
+|Lesson | Link |
+| :---: | :---: | 
+|OOP [03] | [https://youtu.be/-gWx_NILonQ](https://youtu.be/M4VjTVO8Rbw) | 
+|OOP [009] | https://youtu.be/TbAPLaruUjE|
+|CSharp [021] | https://youtu.be/cw1BXqkok1k|
+|CSharp [022] | https://youtu.be/02EEtFtes_0| 
+|OOP [010] | https://youtu.be/TUfatzFvASU|
+|OOP [011] | https://youtu.be/twon_3eUXRo|
+|OOP [012] | https://youtu.be/a1d9y-wxXbs|
+
+---
 
 ```mermaid
 timeline
