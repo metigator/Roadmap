@@ -153,8 +153,8 @@ timeline
 
 |Lesson | Link |
 | :---: | :---: | 
-|CSharp [004] | https://youtu.be/D9VD0mn6mss |
-|CSharp [005] | https://youtu.be/XTB3V6R1L- | 
+|CSharp [004] | https://youtu.be/D9VD0mn6mss|
+|CSharp [005] | https://youtu.be/XTB3V6R1L-c| 
 |CSharp [006] | https://youtu.be/eOqTJWuCXho|
 
 ---
@@ -264,12 +264,13 @@ timeline
 
 |Lesson | Link |
 | :---: | :---: | 
-|CSharp [009] | https://youtu.be/LEhv_owDo0o |
+|CSharp [008] | https://youtu.be/LEhv_owDo0o |
+|CSharp [009] | https://youtu.be/GkmlPDc_5Dc |
 |OOP [001] | https://youtu.be/vo_vktaAK9o|
 |OOP [002] | https://youtu.be/ZOuOltL2IsU |
 |OOP [003] | https://youtu.be/M4VjTVO8Rbw |
-|OOP [004] | https://youtu.be/iCZEXw2G6 |
-|OOP [005] | https://youtu.be/iCZEXw2G6akak |
+|OOP [004] | https://youtu.be/iCZEXw2G6akak |
+|OOP [005] | https://youtu.be/dS9I-cggCiI |
 |OOP [006] | https://youtu.be/EEyh4xCcMSs |
 |OOP [007] | https://youtu.be/UMIUlG-uwxY |
 |CSharp [010] | https://youtu.be/GkmlPDc_5Dc|
@@ -332,7 +333,7 @@ timeline
 
 |Lesson | Link |
 | :---: | :---: | 
-|CSharp [012] | https://youtu.be/2LXzNQSTHTc | 
+|CSharp [012] | https://youtu.be/2LXzNQSTHTc| 
 |CSharp [013] | https://youtu.be/rvNJrgj6ilg|
 |CSharp [014] | https://youtu.be/8aWHZncV95Q|
 |CSharp [015] | https://youtu.be/F3ryldPGQoM|
